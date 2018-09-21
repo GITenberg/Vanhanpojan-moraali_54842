@@ -1,6 +1,9 @@
 _repo: Vanhanpojan-moraali_54842
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: The Morals of Marcus Ordeyne. Finnish
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Locke, William John
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1324
     wikipedia: http://en.wikipedia.org/wiki/William_John_Locke
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54842#Vanhanpojan-moraali
 gutenberg_issued: '2017-06-04'
 gutenberg_type: Text
 identifiers:
